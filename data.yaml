@@ -1,0 +1,4 @@
+train: data/images/train
+val: data/images/val
+nc: 7
+names: ['road','vehicle','pedestrian','sign','building','sky','other']
